@@ -1,0 +1,5 @@
+# Data Analysis Methods
+
+Welcome! This site introduces essential data analysis techniques for students and analysts.
+
+Use the navigation menu to explore each method.
