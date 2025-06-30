@@ -9,6 +9,14 @@ Regression Analysis (e.g., Linear, Logistic)
 Tests for Variance (e.g., Levene’s, F-Test)
 Normality Tests (e.g., Shapiro-Wilk, Anderson-Darling)
 
+# Project Overview
+
+This project includes an exploratory data analysis (EDA) phase.
+
+## EDA Chart
+
+![EDA Chart](EDA.png)
+
 
 ## 1. Parametric Tests
 These assume underlying statistical distributions (usually normal distribution).
